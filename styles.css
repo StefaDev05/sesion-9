@@ -1,0 +1,40 @@
+/* Estilos del encabezado */
+
+header{
+    background-color: #FF6B6B;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+/* Estilo para la barra de navegación */
+nav a{
+    color: blue;
+    text-decoration: limegreen;
+    font-weight: bold;
+}nav a:hover{
+    color: blueviolet;
+}
+/* Estilo para la sección principal*/
+.contenedor{
+    width: 90%;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: #4ECDC4;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #3F5064;
+}
+.contenedor h2{
+    color: #FFE66D;
+}
+.contenedor p{
+    color: black;
+    font-size: 16px;
+    line-height: 1.6;
+}
+/* Estilo pie de página*/
+footer{
+    background-color:#3F5064;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
